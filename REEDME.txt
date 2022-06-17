@@ -1,0 +1,5 @@
+Guide to Run MineSweeper
+————————————————————
+The first step in running MineSweeper is installing Visual Studio Code, or VSCode for short. This can be done by searching "VSCode Download" then following the first link. Next, choose the correct operating system, and download the corresponding file. Once you have finished installing VSCode, run the program.
+
+Afterwards, open the folder “MineSweeper” and find where you can open a terminal inside of VSCode. Afterwards, type the command: javac Minesweeper.java ; java Minesweeper. After this command runs, the correct program should work as intended
